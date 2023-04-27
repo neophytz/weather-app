@@ -1,0 +1,21 @@
+.backdrop {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#weather_bg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.sunny_day {
+    background-image: url('../assets/sun_bg.jpg');
+}
+
+.rain_day {
+    background-image: url('../assets/rain_bg.jpg');
+}
+
+.cloud_day {
+    background-image: url('../assets/cloud_bg.jpg');
+}
